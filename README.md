@@ -5,7 +5,7 @@ A wrapper to get a docker image from the Neon proxy for internal test use.
 ## Building
 
 ```console
-docker build . -t grafbase/neon-proxy:latest^C
+docker build . -t grafbase/neon-proxy:latest
 ```
 
 ## Publishing
